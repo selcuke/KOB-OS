@@ -1,4 +1,4 @@
-# KOB-OS
+# KOBİOS
 Türkiye Kobilere Özel Uygulama
 
 KOBİOS Nedir?
